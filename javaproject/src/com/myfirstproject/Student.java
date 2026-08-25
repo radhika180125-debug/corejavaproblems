@@ -1,5 +1,5 @@
 package com.myfirstproject;
 
-public class movie {
+public class Student {
 
 }
